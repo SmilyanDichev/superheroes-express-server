@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "v1.00",
+  "dependencies": {
+    "babel-eslint": "^8.2.2",
+    "body-parser": "^1.18.2",
+    "eslint": "^4.18.2",
+    "eslint-config-google": "^0.9.1",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "mysql2": "^1.5.2",
+    "pug": "^2.0.1",
+    "sequelize": "^4.36.1",
+    "sequelize-auto-migrations": "^1.0.2"
+  }
+}
